@@ -1,0 +1,280 @@
+[
+  {
+    "title": "JEE",
+    "icon": "school-outline",
+    "subjects": [
+      {
+        "name": "Physics",
+        "icon": "snow-outline",
+        "description": "Mechanics, Thermodynamics, Electrodynamics, Waves, Optics, Modern Physics, and numerical problem-solving."
+      },
+      {
+        "name": "Chemistry",
+        "icon": "flask-outline",
+        "description": "Physical, Inorganic, and Organic chemistry with emphasis on concepts, reactions, and problem-solving."
+      },
+      {
+        "name": "Maths",
+        "icon": "calculator-outline",
+        "description": "Algebra, Calculus, Geometry, Trigonometry, Probability, and advanced JEE-level mathematics."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Practice & Question Banks",
+        "items": [
+          {
+            "title": "JEE Mains \n Mock tests",
+            "icon": "file-document-outline",
+            "description": "Practice problems and question banks for JEE Physics."
+          },
+          {
+            "title": "JEE Advanced \n Mock Tests",
+            "icon": "file-document-outline",
+            "description": "Practice problems and question banks for JEE Chemistry."
+          }
+        ]
+      },
+      {
+        "title": "Ai Tools",
+        "items": [
+          {
+            "title": "Previous Year Questions",
+            "icon": "lightbulb-outline",
+            "description": "Practice problems and question banks for JEE Physics."
+          },
+          {
+            "title": "Formula Sheets",
+            "icon": "angle-right",
+            "description": "Practice problems and question banks for JEE Chemistry."
+          },
+          {
+            "title": "Weekly Test \n (Answer with analyse mistake)",
+            "icon": "alpha",
+            "description": "Practice problems and question banks for JEE Mathematics."
+          },
+          {
+            "title": "TutorXpert AI \n Recommendations",
+            "icon": "robot-outline",
+            "description": "Practice problems and question banks for JEE Mathematics."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NEET",
+    "icon": "medkit-outline",
+    "subjects": [
+      {
+        "name": "Biology",
+        "icon": "leaf-outline",
+        "description": "Botany and Zoology including physiology, genetics, evolution, biotechnology, ecology."
+      },
+      {
+        "name": "Physics",
+        "icon": "flash-outline",
+        "description": "Mechanics, thermodynamics, electricity, magnetism, optics, and modern physics."
+      },
+      {
+        "name": "Chemistry",
+        "icon": "flask-outline",
+        "description": "Organic, Inorganic, and Physical chemistry aligned with NCERT for NEET."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "CUET",
+    "icon": "receipt-outline",
+    "subjects": [
+      {
+        "name": "Language Test",
+        "icon": "chatbubble-ellipses-outline",
+        "description": "Reading comprehension, grammar, vocabulary, and verbal reasoning."
+      },
+      {
+        "name": "Domain Subjects",
+        "icon": "layers-outline",
+        "description": "Subject-specific topics based on chosen stream like science, commerce, or humanities."
+      },
+      {
+        "name": "General Test",
+        "icon": "help-circle-outline",
+        "description": "Logical reasoning, quantitative aptitude, GK, and current affairs."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "CLAT",
+    "icon": "library-outline",
+    "subjects": [
+      {
+        "name": "English Language",
+        "icon": "bookmark-outline",
+        "description": "Reading comprehension, grammar, vocabulary, inference, and verbal reasoning."
+      },
+      {
+        "name": "Current Affairs & GK",
+        "icon": "newspaper-outline",
+        "description": "National and international news, sports, awards, government policies, static GK."
+      },
+      {
+        "name": "Legal Reasoning",
+        "icon": "hammer-outline",
+        "description": "Legal principles, constitution basics, torts, contracts, and logical application of laws."
+      },
+      {
+        "name": "Logical Reasoning",
+        "icon": "git-compare-outline",
+        "description": "Critical reasoning, assumptions, analogies, arguments, statement-based questions."
+      },
+      {
+        "name": "Quantitative Techniques",
+        "icon": "stats-chart-outline",
+        "description": "Arithmetic, percentages, averages, data interpretation, and basic numerical reasoning."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "SSC",
+    "icon": "bar-chart-outline",
+    "subjects": [
+      {
+        "name": "General Intelligence",
+        "icon": "bulb-outline",
+        "description": "Analytical reasoning, non-verbal reasoning, analogies, patterns, coding-decoding."
+      },
+      {
+        "name": "General Awareness",
+        "icon": "earth-outline",
+        "description": "Static GK, history, geography, polity, economics, science, and current affairs."
+      },
+      {
+        "name": "Quantitative Aptitude",
+        "icon": "calculator-outline",
+        "description": "Arithmetic, algebra, trigonometry, mensuration, and data interpretation."
+      },
+      {
+        "name": "English Language",
+        "icon": "book-outline",
+        "description": "Grammar, vocabulary, error detection, and comprehension."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "CAT/CMAT",
+    "icon": "stats-chart-outline",
+    "subjects": [
+      {
+        "name": "Quantitative Aptitude",
+        "icon": "calculator-outline",
+        "description": "Arithmetic, algebra, number system, geometry, and MBA-level quant reasoning."
+      },
+      {
+        "name": "Logical Reasoning",
+        "icon": "options-outline",
+        "description": "Puzzles, seating arrangements, charts, tables, and caselets."
+      },
+      {
+        "name": "Verbal Reasoning",
+        "icon": "chatbubbles-outline",
+        "description": "Para-jumbles, comprehension, grammar, vocabulary, and critical reasoning."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "Banking",
+    "icon": "cash-outline",
+    "subjects": [
+      {
+        "name": "Quantitative Aptitude",
+        "icon": "calculator-outline",
+        "description": "Bank-level arithmetic, DI, simplification, quadratic equations, and number series."
+      },
+      {
+        "name": "Reasoning Ability",
+        "icon": "grid-outline",
+        "description": "Puzzles, seating arrangement, blood relation, direction sense, coding-decoding."
+      },
+      {
+        "name": "English Language",
+        "icon": "newspaper-outline",
+        "description": "Reading comprehension, grammar, cloze tests, and vocabulary."
+      },
+      {
+        "name": "General/Banking Awareness",
+        "icon": "trending-up-outline",
+        "description": "Banking industry concepts, RBI rules, financial awareness, and current events."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  },
+  {
+    "title": "UPSC",
+    "icon": "globe-outline",
+    "subjects": [
+      {
+        "name": "History & Culture",
+        "icon": "hourglass-outline",
+        "description": "Ancient, medieval, modern history, freedom movement, and Indian art & culture."
+      },
+      {
+        "name": "Geography",
+        "icon": "map-outline",
+        "description": "Physical, world, and Indian geography with climate, resources, and mapping."
+      },
+      {
+        "name": "Polity & Governance",
+        "icon": "people-circle-outline",
+        "description": "Constitution, governance, public administration, parliament, fundamental rights."
+      },
+      {
+        "name": "Economy",
+        "icon": "cash-outline",
+        "description": "Economic concepts, budgeting, planning, growth, poverty, and government schemes."
+      },
+      {
+        "name": "Environment & Ecology",
+        "icon": "sparkles-outline",
+        "description": "Climate, biodiversity, ecosystems, conservation, and environmental policies."
+      },
+      {
+        "name": "Science & Technology",
+        "icon": "rocket-outline",
+        "description": "Developments in space, biotech, defense, IT, and scientific innovation."
+      },
+      {
+        "name": "Current Affairs",
+        "icon": "time-outline",
+        "description": "Monthly national and international events relevant for prelims and mains."
+      }
+    ],
+    "sections": [
+      { "title": "", "items": [] },
+      { "title": "", "items": [] }
+    ]
+  }
+]
